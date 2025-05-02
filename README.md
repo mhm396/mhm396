@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 Estudiante de Ingeniería Informática con pasión por el aprendizaje y el desarrollo profesional. Me defino como una persona adaptable, optimista y bien organizada. Siempre enfocado en ofrecer lo mejor de mí y en seguir aprendiendo para crecer tanto personal como profesionalmente.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-angel-hidalgo-manzano/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-hidalgo-manzano/) 
 
 # 💻 Tecnologías:
 ### Programación
@@ -16,6 +16,8 @@ Estudiante de Ingeniería Informática con pasión por el aprendizaje y el desar
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### Frameworks y Herramientas Cloud
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
