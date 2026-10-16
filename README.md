@@ -1,5 +1,5 @@
 # 💫 Sobre mí:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-hidalgo-manzano/) 
-Estudiante de Ingeniería Informática con pasión por el aprendizaje y el desarrollo profesional. Me defino como una persona adaptable, optimista y bien organizada. Siempre enfocado en ofrecer lo mejor de mí y en seguir aprendiendo para crecer tanto personal como profesionalmente.
+Ingeniero de software con pasión por el aprendizaje y el desarrollo profesional. Me defino como una persona adaptable, optimista y bien organizada. Siempre enfocado en ofrecer lo mejor de mí y en seguir aprendiendo para crecer tanto personal como profesionalmente.
 
 
 # 💻 Tecnologías:
